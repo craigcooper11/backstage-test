@@ -6,10 +6,6 @@ metadata:
   title: Maximo Application Suite (MAS) Install Automation OpenShift Operator
   description: "This creates an operator that will run the MAS Product Lab ansible
     tasks to install MAS and it's applications. "
-  links:
-    - url: https://github.com/cloud-native-toolkit/operator-masauto
-      title: GitHub
-      icon: github
 spec:
   owner: user:ibm/craig.cooper
   deploys:
