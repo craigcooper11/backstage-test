@@ -11,7 +11,7 @@ metadata:
       title: GitHub
       icon: github
 spec:
-  owner: user:ibm/craig.cooper@ibm.com
+  owner: user:ibm/craig.cooper
   deploys:
     - product:ibm/maximo-application-suite-8.9
     - product:ibm/maximo-manage-8.5
